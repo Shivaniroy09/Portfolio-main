@@ -6,6 +6,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
+**Live Demo:** [visionary-begonia-a8a46f.netlify.app](https://visionary-begonia-a8a46f.netlify.app/)
+
 A modern, responsive, and high-performance personal portfolio website built with HTML5, CSS3, Bootstrap 5, and JavaScript. Designed for front-end developers, graphic designers, and UI/UX designers to present their projects, skills, education, and professional experience beautifully.
 
 ---
@@ -50,11 +52,11 @@ To run this project locally, all you need is a web browser. No complex package i
 ### Running Locally
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Shivaniroy09/Portfolio.git
+   git clone https://github.com/Shivaniroy09/Portfolio-main.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd Portfolio
+   cd Portfolio-main
    ```
 3. Open `index.html` in your web browser, or serve it using a lightweight HTTP server (recommended):
    ```bash
